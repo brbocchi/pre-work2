@@ -1,0 +1,199 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:700|Roboto:100,300,700');
+
+
+nav {
+  background-color: #C12127;
+  color: rgba(255,255,255,0.8);
+  padding-top: 3px;
+  height: 30px;
+  padding-left: 10px;
+  margin: 0 auto;
+}
+
+body {
+  font-family: 'Roboto';
+  font-size: 10px;
+  line-height: 3.5em;
+  font-weight: 300;
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: 'Roboto Condensed';
+}
+
+nav a {
+  color: rgba(255,255,255,0.8);
+  text-decoration: none;
+}
+
+.top-left{
+  float:left;
+ }
+
+
+
+.top-links {
+  display: inline-block;
+  float: right;
+  padding: 0px;
+  margin: 0 20px 0 0;
+}
+
+.top-links li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+header {
+  color: white;
+  background-color: rgb(32, 101, 136)
+}
+
+.search-bar{
+ background-color: rgb(31, 82, 111)
+ width: 30%;
+}
+
+
+
+.orange-button {
+  color: white;
+  background-color: rgb(240, 146, 51);
+  display: block;
+  font-family: 'Roboto Condensed';
+  font-size: 1.5em;
+  letter-spacing: 0.2px;
+  margin: 40px 0 0 0px;
+  padding: 14px 2px;
+  text-align: center;
+  text-decoration: none;
+  width: 150px;
+  border-radius: 20px;
+}
+
+
+
+.red-button {
+  color: white;
+  background-color: rgb(203, 56, 55);
+  display: block;
+  font-family: 'Roboto Condensed';
+  font-size: 1.5em;
+  letter-spacing: 0.2px;
+  margin: 0 auto;
+  padding: 14px 2px;
+  text-align: center;
+  text-decoration: none;
+  width: 150px;
+  border-radius: 20px;
+}
+
+.blue-button {
+  color: white;
+  background-color: rgb(49, 68, 88);
+  display: block;
+  font-family: 'Roboto Condensed';
+  font-size: 1.5em;
+  letter-spacing: 0.2px;
+  margin: 40px 0 0 0;
+  padding: 14px 2px;
+  text-align: center;
+  text-decoration: none;
+  width: 150px;
+  border-radius: 20px;
+}
+
+.building-blocks {
+  background-color: white;
+  margin: 0 auto;
+  text-align: center;
+  color:rgb(83, 88, 98);
+}
+
+.paragraph{
+  color: rgb(135, 145, 156);
+}
+
+
+.links-down {
+ color: rgb(208, 74, 73);
+ text-decoration: none;
+ }
+
+ 
+.forklift {
+  background: url("images/forklift.svg") 0 0 no-repeat;
+  background-size: cover;
+  height: 300px;
+  padding: 15px 40px;
+  position: relative;
+  color: white;
+  clear: both;
+  
+}
+
+.cityscape {
+  background: url("images/city-scape.svg") 0 0 no-repeat;
+  background-size: cover;
+  height: 300px;
+  padding-top: 0px;
+  position: relative;
+  color: white;
+  margin: 0 0 0 0;
+}
+
+.links-middle {
+  color: white;
+  text-decoration: double;
+}
+
+.search{
+  float:left;
+  margin: 5px 0x 0 0;
+  padding: 3px;
+  line-height: 0;
+}
+
+
+
+.middle > * {
+  vertical-align: middle;
+}
+
+.build{
+  clear:both;
+  margin: 0 50% 0 30px;
+}
+
+.clearfix {
+  clear: both;
+}
+
+.image-bear {
+  float:left;
+  margin: 0 auto;
+  padding: 80px 0px 40px 33%; 
+  background-color: rgb(39, 53, 71);
+  height: 250px;
+
+}
+
+.npm-Orgs-is {
+  color: white;
+  background-color: rgb(39, 53, 71);
+  padding: 40px 0px 40px 0px;
+  float: left;
+  height: 250px;
+  
+    
+}
+
+.block-picks{
+  float:left;
+  width: 30%;
+  margin: 50px 1.5% 0;
+}
+
+.bear{
+  background-color: rgb(39, 53, 71);
+}
